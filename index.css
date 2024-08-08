@@ -1,0 +1,52 @@
+body{
+    font-family: "Inter", serif;
+    font-weight: 500;
+}
+.toplinks{
+    padding: 20px;
+    color: #626262;
+    text-decoration: none;
+    font-size: .9rem;
+    font-weight: 100;
+}
+.topbar{
+    border-bottom-style: solid;
+    border-color: rgb(240, 240, 240);
+    box-shadow: 0.5px 0.5px #f3f3f3;
+    
+}
+span:hover{
+    color: rgb(30, 114, 192);
+    cursor: pointer;
+}
+.invest{
+    margin-top: 60px;
+    font-size: 2.75rem;
+    font-weight: 500;
+    color: #424242;
+
+}
+.online{
+    margin-top: 20px;
+    color: #424242;
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+button{
+    margin-top: 5px;
+   background-color: #387ed1;
+   width: 175px;
+   height: 45px;
+   border: none;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   border-radius: 4px;
+   font-size: 20;
+   color: white;
+}
+button:hover{
+    background-color: black;
+}
